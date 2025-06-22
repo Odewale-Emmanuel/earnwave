@@ -17,7 +17,7 @@ Earnwave is a web application built to closely replicate the UI and animation sh
 
 The site is deployed and available on Vercel:
 
-👉 [https://earnwave.vercel.app](https://earnwave.vercel.app)
+👉 [https://main-earnwave.vercel.app](https://main-earnwave.vercel.app)
 
 ---
 
